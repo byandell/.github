@@ -1,7 +1,9 @@
-# byandell-Tribal Organization
-This organization contains my collaborative work with Tribes.
-It is meant to have prototype material to share on projects.
+# byandell Github
+This GitHub site contains my collaborative work.
+It has a variety of projects that don't fit into organizations such as
+[byandell-sysgen](https://github.com/byandell-sysgen)
+or
+[byandell-envsys](https://github.com/byandell-envsys).
 Some of these repositories will be private to respect work in process that has not yet been agreed for release.
-No private Tribal information will be in this organization.
 
 Brian S. Yandell [byandell](https://github.com/byandell)
